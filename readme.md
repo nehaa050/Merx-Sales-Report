@@ -1,3 +1,5 @@
+# Merx-Sales-Report
+
 # Supermarket Sales Semantic Model Documentation
 
 ## Overview
