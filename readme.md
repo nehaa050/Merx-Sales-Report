@@ -93,8 +93,11 @@ As a result, leadership gained a clear view of margin erosion drivers and implem
 
 ---
 ![Sales Report](images/Sales_1.png)
+
 ---
+
 ![Sales Report](images/Sales_2.png)
+
 ---
 
 
