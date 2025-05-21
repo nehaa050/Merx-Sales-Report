@@ -92,13 +92,14 @@ The following measures (DAX expressions) were created to capture profitability a
 As a result, leadership gained a clear view of margin erosion drivers and implemented targeted pricing adjustments.
 
 ---
-![Sales Report](images/Sales_1.png)
+![Sales Report](images/Sales_1.PNG)
 
 ---
 
-![Sales Report](images/Sales_2.png)
+![Sales Report](images/Sales_2.PNG)
 
 ---
+
 
 
 ## Accessing the Report
