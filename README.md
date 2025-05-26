@@ -107,3 +107,89 @@ As a result, leadership gained a clear view of margin erosion drivers and implem
 Explore the interactive Power BI report here:
 [Open Supermarket Profitability Report](https://app.powerbi.com/groups/me/reports/cdb42391-d649-4120-a5c5-b7fa184da6a1/ReportSection)
 
+
+---
+
+# Key Insights & Recommendations
+
+## 1. Channel Performance
+
+* **Total Sales Split**: 65% physical stores vs. 35% online.
+* **Gross Margin**:
+
+  * Physical: \~27%
+  * Online: \~20% (7 pp below physical)
+* **Average Ticket**:
+
+  * Physical: US \$45 per transaction
+  * Online: US \$30 per transaction
+
+> **Insight:** Online volume is growing but at lower ticket size and compressed margin.
+
+---
+
+## 2. Category & Margin Performance
+
+| Category      | % of Sales | Gross Margin |
+| ------------- | ---------: | -----------: |
+| Dairy         |        18% |          32% |
+| Bakery        |        15% |          30% |
+| Beverages     |        12% |          22% |
+| Snacks        |        10% |          18% |
+| Fresh Produce |         8% |          28% |
+
+* **Top performers**: Dairy & Bakery (> 30% margin)
+* **Margin drains**: Snacks (18%) despite top‑5 sales rank
+
+> **Insight:** High‑margin categories (Dairy, Bakery) are key profit drivers; Snacks erode overall margin.
+
+---
+
+## 3. Top Products Driving Gross Profit
+
+1. **Whole Milk** (Dairy)
+2. **Whole Wheat Bread** (Bakery)
+3. **Natural Yogurt** (Dairy)
+4. **Assorted Sweet Bread** (Bakery)
+5. **Bottled Water** (Beverages)
+
+> These five SKUs represent 20% of gross profit on just 12% of unit volume.
+
+---
+
+## 4. Returns Impact
+
+* **Return Rate by Category**:
+
+  * Beverages: 5%
+  * Fresh Produce: 4%
+  * Snacks: 3%
+  * Others: < 2%
+* **Net Sales After Refunds**: \~95% of gross sales
+
+> **Insight:** Improving packaging and descriptions for Beverages & Fresh Produce could recover \~1 pp of net revenue.
+
+---
+
+## 5. Temporal Trends
+
+* **Physical Channel**: Sales spike +40% on weekends vs. weekdays.
+* **Online Channel**: Peaks on Tuesdays and Thursdays (free‑shipping days).
+* **Promotion Window**: On Day 3 of the BOGO promotion, Snacks margin dipped 6 pp.
+
+> **Insight:** Promotion timings drive volume but can overload operations and deeply compress margins.
+
+---
+
+## Recommendations
+
+1. **Adjust Discount Depth**: Replace 100% BOGO on Snacks with a 20–30% discount to protect an 18–20% margin floor.
+2. **Promote High‑Margin Items**: Bundle Dairy & Bakery with promotional SKUs to lift overall basket margin.
+3. **Raise Free‑Shipping Threshold**: Increase online free‑shipping minimum (e.g., US \$50) to boost average ticket.
+4. **Enhance Packaging & Descriptions**: Target Beverages & Fresh Produce to reduce returns by 1–2 pp.
+5. **Negotiate Unit Costs**: Leverage promotional volume to secure lower supplier rates on Snacks and Beverages.
+6. **Real‑Time Monitoring**: Update dashboards daily during promotions to detect and mitigate margin compression quickly.
+
+
+
+
